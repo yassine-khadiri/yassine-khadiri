@@ -15,6 +15,7 @@ I am a Junior Frontend Developer and Mobile Engineer with over 4 years of experi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yassine-khadiri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/yassine-khadiri/yassine-khadiri/blob/output/github-snake-dark.svg)
 
 <br />
 <br />
