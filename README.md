@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-I am a Junior Frontend Developer and Mobile Engineer with over 4 years of experience building digital experiences. I focus on delivering clean, accessible, and user-centered applications using modern web and mobile technologies.
+I am a Junior Frontend and Mobile Developer with over 4 years of experience building digital experiences. I focus on delivering clean, accessible, and user-centered applications using modern web and mobile technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samer_v1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-khadiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KHADIRIYassine1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Yassinekhadiri77@gmail.com)
